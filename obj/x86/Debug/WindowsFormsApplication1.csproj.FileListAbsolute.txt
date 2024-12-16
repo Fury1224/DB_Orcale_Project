@@ -1,0 +1,162 @@
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\M520\Desktop\DB_DataGridView_WindowForm\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\송우성\DB_DataGridView_WindowForm\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\송우성\DB_DataGridView_WindowForm\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\오라클예제\C#예제\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\오라클예제\C#예제\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\오라클예제\C#예제\bin\Debug\WindowsFormsApplication1.exe
+E:\오라클예제\C#예제\bin\Debug\WindowsFormsApplication1.pdb
+E:\오라클예제\C#예제\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\오라클예제\C#예제\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\오라클예제\C#예제\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\오라클예제\C#예제\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\오라클예제\C#예제2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\오라클예제\C#예제2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\오라클예제\C#예제2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\오라클예제\C#예제2\bin\Debug\WindowsFormsApplication1.exe
+E:\오라클예제\C#예제2\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\professor\Desktop\DB실습\오라클예제\C#예제2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\professor\Desktop\DB실습\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\professor\Desktop\DB실습\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\professor\Desktop\DB실습\오라클예제\C#예제2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\professor\Desktop\DB실습\오라클예제\C#예제2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\오라클예제\C#예제2\bin\Debug\WindowsFormsApplication1.exe
+F:\오라클예제\C#예제2\bin\Debug\WindowsFormsApplication1.pdb
+F:\오라클예제\C#예제2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\오라클예제\C#예제2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\오라클예제\C#예제2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\오라클예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\이해각교수님\Documents\1.강의 자료\DB실습\오라클관련자료\비주얼스튜디오예제\C#예제2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제2\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제2\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제2\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\이해각교수님\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\1.강의 자료\2.DB실습\비주얼스튜디오예제\C#예제(그리드채우기)\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(그리드채우기확장)\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\1.강의자료\2.실무DB\비주얼스튜디오예제\C#예제(3.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.insert.resources
+C:\Users\96965\Desktop\db\자료\C#예제(2.그리드채우기-테이블선택)\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.AdminMenu.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.insert.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.studentMenu.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.AdminSelect.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.AdminManage.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.AdminManage과목.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.AdminManageAll.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.JoinMenu.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.JoinProfessor.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.Dialog.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.JoinStudent.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.professorMenu.resources
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Buffers.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Memory.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Text.Json.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.ValueTuple.dll
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Buffers.xml
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Memory.xml
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Text.Json.xml
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\96965\Desktop\DB_TermProject\bin\Debug\System.ValueTuple.xml
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.changePW.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.professor담당교과목.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.강의학점조회.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.수강학점조회.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.student개설과목.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.student성적.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.professor성적입력.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.professor지도학생.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.professor상담.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.professor상담조회.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.student상담조회.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.professor수강.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.professor수강조회.resources
+C:\Users\96965\Desktop\DB_TermProject\obj\x86\Debug\WindowsFormsApplication1.admin권한.resources
